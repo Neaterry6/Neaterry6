@@ -142,20 +142,28 @@ Honest list — these are built but their deployments are down or mid-rebuild. W
 
 # 📦 Packages
 
-I build most of my work as **drop-in APIs and modules** meant to be installed and used, not just cloned.
+Zero-dependency npm packages — no axios, no SDKs, nothing to keep updated.
 
 <div align="center">
 
-### npm
-
-<!-- Published packages will be listed here as they go live. -->
-> 🚧 **Currently preparing my first public npm packages** — several of my APIs are being packaged for one-line install.
-
-*Want one of my APIs as an npm package? [Open an issue](https://github.com/Neaterry6/Neaterry6/issues) and I'll publish it.*
+| Package | What it does | Install |
+|---|---|---|
+| [**broken-roasts**](https://github.com/Neaterry6/broken-roasts) | Roast generator. 5 flavours + personalised roasts. Works offline. | `npm i broken-roasts` |
+| [**broken-translate**](https://github.com/Neaterry6/broken-translate) | Translation with auto-detect, batch and long-text support. | `npm i broken-translate` |
 
 </div>
 
-### 🧩 API Modules (install-ready, source available)
+Both ship full TypeScript types, a dual ESM + CJS build, and a test suite.
+
+```js
+const { getRoast } = require('broken-roasts');
+getRoast('savage');   // "You have the perfect face for radio."
+
+const { translate } = require('broken-translate');
+await translate('Hello world', { to: 'fr' });   // "Bonjour le monde"
+```
+
+### 🧩 More APIs (source available)
 
 | Module | What it does | Stack |
 |---|---|---|
@@ -165,12 +173,10 @@ I build most of my work as **drop-in APIs and modules** meant to be installed an
 | [**YT API**](https://github.com/Neaterry6/Yt-api) | YouTube search + metadata | JavaScript |
 | [**YTDL API**](https://github.com/Neaterry6/ytdl-API-) | Video/audio extraction | JavaScript |
 | [**Music API**](https://github.com/Neaterry6/Music-Api-) | Music search + streaming | JavaScript |
-| [**Roast API**](https://github.com/Neaterry6/roast-api) | Fun roast generator | JavaScript |
-| [**Translator API**](https://github.com/Neaterry6/translator-api) | Multi-language translation | JavaScript |
 | [**Pexels / Pinterest API**](https://github.com/Neaterry6/pexel-api) | Image search + proxy | HTML |
 | [**Blocklist Manager**](https://github.com/Neaterry6/blocklist-manager) | Phone blocklist with import/export | Node.js |
 
-<sub>Every module is self-contained and documented. PRs and issues welcome.</sub>
+<sub>Want one of these as a package? [Open an issue](https://github.com/Neaterry6/Neaterry6/issues).</sub>
 
 ---
 
