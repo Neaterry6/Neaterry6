@@ -1,165 +1,176 @@
-<!-- ========================================= -->
-
-<!--               BROKENVZN PROFILE           -->
-
-<!-- ========================================= -->
+<!-- ============================================================ -->
+<!--                    BROKENVZN  ·  PROFILE README              -->
+<!--         Akewushola Abdulbakri Temitope  ·  Neaterry6         -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=1000&lines=Hi+There!+I'm+Akewushola+Abdulbakri+Temitope;better+known+as+BROKENVZN;Full+Stack+Developer;AI+Engineer;React+%7C+Node.js+%7C+Python;Writer+%26+Singer;Building+Amazing+Things+Every+Day..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=1000&lines=Hi+There!+I'm+Akewushola+Abdulbakri+Temitope;better+known+as+BROKENVZN;Full+Stack+Developer+%7C+AI+Engineer;I+build+APIs%2C+agents+and+web+apps;Ship+it%2C+then+make+it+better." />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=BROKENVZN&fontAlign=50&fontAlignY=40&color=0:00F7FF,50:8A2BE2,100:FF0080&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Writer%20•%20Singer&descAlignY=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=BROKENVZN&fontAlign=50&fontAlignY=40&color=0:00F7FF,50:8A2BE2,100:FF0080&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20API%20Builder&descAlignY=62"/>
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-# 👋 Welcome to my GitHub
-
-### 💻 Full Stack Developer
-
-### 🤖 AI Engineer
-
-### 🎵 Singer
-
-### ✍️ Writer
-
-> **"I don't just write code—I build experiences."**
-
-</div>
-
----
-
-<p align="center">
-
+<a href="https://neaterry6.github.io"><img src="https://img.shields.io/badge/Portfolio-Live-00F7FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=Neaterry6&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Neaterry6?logo=github&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/Neaterry6?logo=github&style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Lover-blueviolet?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI-Developer-00C896?style=for-the-badge"/>
-
-</p>
-
----
-
-<div align="center">
-
-## 🚀 Who Am I?
-
-I'm **Akewushola Abdulbakri Temitope**, also known as **brokenvzn**.
-
-A passionate **Full Stack Developer** from Nigeria who enjoys creating modern web applications, AI-powered tools, and software that solves real problems.
-
-When I'm not coding, you'll probably find me writing stories, singing, or exploring new technologies.
-
-My goal is simple:
-
-> **Build products that people genuinely enjoy using.**
+<img src="https://img.shields.io/github/followers/Neaterry6?logo=github&style=for-the-badge&label=Followers"/>
+<img src="https://img.shields.io/github/stars/Neaterry6?logo=github&style=for-the-badge&label=Stars"/>
 
 </div>
 
 ---
 
-## 🌟 What You'll Find Here
+<div align="center">
 
-* 🤖 Artificial Intelligence Projects
-* 🌍 Full Stack Web Applications
-* ⚛️ React Projects
-* 🚀 Node.js APIs
-* 🐍 Python Applications
-* 📱 Modern UI/UX Designs
-* 🎨 Creative Experiments
-* 🛠 Open Source Contributions
+> ### "I don't just write code — I build things people actually use."
+
+**50+ original repositories** · **AI agents** · **REST APIs** · **Streaming tools** · **WhatsApp bots**
+
+</div>
 
 ---
 
-<p align="center">
+# 🚀 What I'm Building Right Now
 
-### ⭐ If you enjoy my work, consider following me!
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</p>
+### 🤖 Broken — WhatsApp AI Agent
+A full execution agent that lives in WhatsApp. Not a chatbot — it runs shell commands, browses the web, generates media, hosts sites, and ships code on request.
+
+`Node.js` `Baileys` `LLM tool-calling` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 BROKEN Movies
+Streaming platform with its own scraper backend — TMDB metadata, multi-source embed resolution, IPTV, and an HLS player.
+
+`Express` `Node.js` `TMDB API` `HLS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Brokenvzn AI
+Multi-capability AI platform — assistant, chat, and generation tools behind one interface.
+
+`JavaScript` `Vercel`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎧 BrokenVZN Music API
+A stack of music/lyrics endpoints — search, stream, and lyrics resolution, built to be dropped into any bot or app.
+
+`Node.js` `Python` `REST`
+
+</td>
+</tr>
+</table>
 
 ---
-# 💫 About Me
 
-```javascript
-const brokenvzn = {
-    name: "Akewushola Abdulbakri Temitope",
-    alias: "brokenvzn",
+# 🌐 Live Projects
 
-    location: "Nigeria 🇳🇬",
+> Every link below was checked and is **live right now**. If it is listed here, it loads.
 
-    role: "Full Stack Developer",
+<table>
+<tr>
+<td width="50%" valign="top">
 
-    passions: [
-        "Artificial Intelligence",
-        "Web Development",
-        "Open Source",
-        "Creative Writing",
-        "Music"
-    ],
+**🎬 Streaming & Media**
 
-    currentlyLearning: [
-        "Advanced AI",
-        "Machine Learning",
-        "Cloud Computing",
-        "System Design"
-    ],
+- [**Manga We**](https://manga-we.vercel.app) — manga reader with a clean UI
+- [**StreamMe Chatroom**](https://streamme-chatroom-id.vercel.app) — live chatroom app
 
-    languages: [
-        "JavaScript",
-        "TypeScript",
-        "Python",
-        "HTML",
-        "CSS"
-    ],
+</td>
+<td width="50%" valign="top">
 
-    frontend: [
-        "React",
-        "Next.js",
-        "Tailwind CSS",
-        "Bootstrap"
-    ],
+**🤖 AI & Tools**
 
-    backend: [
-        "Node.js",
-        "Express",
-        "REST APIs"
-    ],
+- [**Brokenvzn AI**](https://brokenvzn-ai.vercel.app) — multi-capability AI platform
+- [**Story Writer AI**](https://my-story-writer-ai.vercel.app) — AI story generation
+- [**Jespire Stories**](https://jespire-stories.vercel.app) — story publishing platform
+- [**Pinterest API**](https://pinterest-api-phi.vercel.app) — image search API
 
-    databases: [
-        "MongoDB",
-        "Firebase",
-        "Supabase",
-        "SQLite"
-    ],
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Railway",
-        "Vercel"
-    ],
+**📚 Web & Education**
 
-    hobbies: [
-        "Coding",
-        "Writing",
-        "Singing",
-        "Building AI"
-    ],
+- [**Phoenix Learn Code**](https://phoenix-learn-code.vercel.app) — interactive coding lessons
+- [**Glamour**](https://glamour-net.vercel.app) — beauty & fashion platform
+- [**Portfolio**](https://neaterry6.github.io) — my own site
 
-    lifeGoal: "Create products that impact millions."
-}
-```
+</td>
+<td width="50%" valign="top">
+
+**🔌 APIs & Backends**
+
+- [**Lyrics API**](https://github.com/Neaterry6/Lyrics-s) — song lyrics lookup
+- [**YT API**](https://github.com/Neaterry6/Yt-api) — YouTube metadata
+- [**Translator API**](https://github.com/Neaterry6/translator-api) — translation endpoints
+- [**Roast API**](https://github.com/Neaterry6/roast-api) — roast generator
+
+<sub>Backends are source-available; hosted endpoints listed under [Packages](#-packages).</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚧 In Progress
+
+Honest list — these are built but their deployments are down or mid-rebuild. Working through them:
+
+- 🎬 **BROKEN Movies** — streaming platform + scraper backend (redeploying)
+- 📸 **Hi Photos** — photo sharing app (redeploying)
+- 📝 **UTME Prep** — exam practice app (rebuilding)
+- 🎵 **YT Play / Video Downloader APIs** — media resolvers (rebuilding)
+
+<sub>No dead links above on purpose — I'd rather show 9 things that work than 21 that don't.</sub>
+
+---
+
+# 📦 Packages
+
+I build most of my work as **drop-in APIs and modules** meant to be installed and used, not just cloned.
+
+<div align="center">
+
+### npm
+
+<!-- Published packages will be listed here as they go live. -->
+> 🚧 **Currently preparing my first public npm packages** — several of my APIs are being packaged for one-line install.
+
+*Want one of my APIs as an npm package? [Open an issue](https://github.com/Neaterry6/Neaterry6/issues) and I'll publish it.*
+
+</div>
+
+### 🧩 API Modules (install-ready, source available)
+
+| Module | What it does | Stack |
+|---|---|---|
+| [**Lyrics API**](https://github.com/Neaterry6/Lyrics-s) | Song lyrics lookup + search | Python |
+| [**LrcApi**](https://github.com/Neaterry6/LrcApi) | Timed `.lrc` lyric streaming | Flask |
+| [**Spotify Lyrics API**](https://github.com/Neaterry6/Spotify-lyrics-api) | Lyrics matched to Spotify tracks | Python |
+| [**YT API**](https://github.com/Neaterry6/Yt-api) | YouTube search + metadata | JavaScript |
+| [**YTDL API**](https://github.com/Neaterry6/ytdl-API-) | Video/audio extraction | JavaScript |
+| [**Music API**](https://github.com/Neaterry6/Music-Api-) | Music search + streaming | JavaScript |
+| [**Roast API**](https://github.com/Neaterry6/roast-api) | Fun roast generator | JavaScript |
+| [**Translator API**](https://github.com/Neaterry6/translator-api) | Multi-language translation | JavaScript |
+| [**Pexels / Pinterest API**](https://github.com/Neaterry6/pexel-api) | Image search + proxy | HTML |
+| [**Blocklist Manager**](https://github.com/Neaterry6/blocklist-manager) | Phone blocklist with import/export | Node.js |
+
+<sub>Every module is self-contained and documented. PRs and issues welcome.</sub>
 
 ---
 
@@ -167,457 +178,103 @@ const brokenvzn = {
 
 <div align="center">
 
-## Languages
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
 
----
-
-## Frontend
+**Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
 
----
+**Backend & APIs**
 
-## Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
----
-
-## Databases
+**Databases**
 
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,sqlite" />
 
----
+**Tools & Deploy**
 
-## Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,railway,linux,docker" />
 
 </div>
 
 ---
 
-# 💻 What I Do
-
-✔ Build Full Stack Web Applications
-
-✔ Build AI-Powered Software
-
-✔ Create REST APIs
-
-✔ Design Modern User Interfaces
-
-✔ Develop Automation Tools
-
-✔ Write Clean & Maintainable Code
-
-✔ Solve Real World Problems
-
----
-
-# 🚀 Current Focus
-
-* 🤖 Artificial Intelligence
-* 🌍 Full Stack SaaS Applications
-* ⚛️ React Ecosystem
-* 🚀 Scalable Backend APIs
-* 🧠 Machine Learning
-* 📱 Beautiful UI/UX
-
----
-
-# 🎯 Fun Facts
-
-* 💡 I enjoy turning ideas into products.
-* 🎵 I write and sing music.
-* ✍️ I write stories in my free time.
-* 🤖 AI is one of my biggest passions.
-* 🌙 Most of my coding happens late at night.
-* 🚀 I love learning new technologies.
-
----
-
-<div align="center">
-
-## ⚡ Developer Philosophy
-
-> **"Keep building. Keep learning. Keep creating."**
-
-</div>
-
----
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neaterry6&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neaterry6&layout=compact&theme=tokyonight&langs_count=10"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neaterry6&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neaterry6&theme=tokyo-night&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Neaterry6&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Neaterry6/Neaterry6/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 📊 Coding Activity
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   ████████████████░░░░   65%
-Python       ███████░░░░░░░░░░░░   20%
-React        █████░░░░░░░░░░░░░░   10%
-Other        ██░░░░░░░░░░░░░░░░░   5%
-```
-
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-# 📈 GitHub Metrics
-
-<div align="center">
-
-<img src="https://metrics.lecoq.io/Neaterry6?template=classic&base=header,activity,community&languages=1&repositories=1&stars=1&achievements=1&people=1&isocalendar=1&activity=1&config.timezone=Africa/Lagos"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 *"Dream it. Build it. Ship it."*
-
-</div>
-
----
-# 🚀 Featured Projects
-
-<div align="center">
-
-### Building AI, Full Stack Applications & Developer Tools
-
-*"Turning ideas into products people love."*
-
-</div>
-
----
-
-## 📸 Hi Photos
-
-> **Pinterest-inspired image discovery platform with AI integration.**
-
-✨ Features
-
-* 🔍 Smart Image Search
-* 🤖 AI Chat Assistant
-* ⚡ Lightning-fast Performance
-* 📱 Fully Responsive UI
-* 🎨 Modern Design
-
-🌐 **Live Demo**
-
-https://hi-photos-production-c2a1.up.railway.app/
-
----
-
-## 🤖 Codex Agent
-
-> **An intelligent AI coding assistant built for developers.**
-
-✨ Features
-
-* 💻 AI Code Generation
-* 🧠 Programming Assistant
-* ⚡ Instant Responses
-* 🛠 Developer Utilities
-
-🌐 **Live Demo**
-
-https://codexagent-production.up.railway.app/
-
----
-
-## 🎬 FlixMovies
-
-> **A beautiful platform for discovering movies.**
-
-✨ Features
-
-* 🎥 Movie Search
-* ⭐ Ratings & Information
-* 🍿 Clean Interface
-* 📱 Mobile Friendly
-
-🌐 **Live Demo**
-
-https://flixmovies-production.up.railway.app/
-
----
-
-## 🧠 Brokenvzn AI
-
-> **A modern AI platform with multiple intelligent capabilities.**
-
-✨ Features
-
-* 🤖 AI Assistant
-* 💬 Smart Conversations
-* ⚡ Fast Responses
-* 🌍 Cloud Powered
-
-🌐 **Live Demo**
-
-https://brokenvzn-ai.vercel.app/
-
----
-
-## 📚 Phoenix Learn Code
-
-> **Interactive programming education platform.**
-
-✨ Features
-
-* 💻 Learn Programming
-* 📖 Interactive Lessons
-* 🧠 Practice Challenges
-* 🚀 Beginner Friendly
-
-🌐 **Live Demo**
-
-https://phoenix-learn-code.vercel.app/
-
----
-
-## ✍️ Story Writer AI
-
-> **Generate creative stories using Artificial Intelligence.**
-
-✨ Features
-
-* 📚 Story Generator
-* 🤖 AI Writer
-* ✨ Creative Assistant
-* ⚡ Fast Generation
-
-🌐 **Live Demo**
-
-https://my-story-writer-ai.vercel.app/
-
----
-
-## 💄 Glamour
-
-> **Modern beauty and fashion platform.**
-
-✨ Features
-
-* 💅 Elegant UI
-* 📱 Responsive Design
-* ⚡ Fast Experience
-
-🌐 **Live Demo**
-
-https://glamour-net.vercel.app/
-
----
-
-# 🚧 More Projects Loading...
-
-I'm constantly building new products in:
-
-* 🤖 Artificial Intelligence
-* 🌍 SaaS Platforms
-* 💻 Developer Tools
-* 🎨 Creative Applications
-* 📱 Full Stack Web Apps
-* 🚀 Open Source Projects
-
----
-
-# ⭐ Top Repositories
-
-> These repositories are updated **automatically every day** using GitHub Actions.
-
-<!-- START_SECTION:top-repos -->
-
-*⏳ Your top 3 repositories will appear here automatically.*
-
-<!-- END_SECTION:top-repos -->
-
----
-
-<div align="center">
-
-### 📂 Explore Everything I've Built
-
-<a href="https://github.com/Neaterry6?tab=repositories">
-<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 💡 Philosophy
-
-> **"Great software begins with curiosity, grows through persistence, and succeeds by solving real problems."**
-
-</div>
-
----
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://portfolio-neaterry6s-projects.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge"/>
-</a>
-
-<a href="https://t.me/Broken_vzn11">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/broken_vzn/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.threads.com/@broken_vzn">
-<img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
-</a>
-
-<a href="https://www.tiktok.com/@bnlsquad_boybroken">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok"/>
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=61587403051704">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="mailto:akewusholaabdulbakri101@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🎧 Currently Listening To
-
-<div align="center">
-
-> *(Automatically updates once Spotify GitHub Action is configured.)*
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID\&cover_image=true\&theme=novatorem\&show_offline=false\&background_color=0d1117\&interchange=true)](https://open.spotify.com)
-
-</div>
-
----
-
-# ☕ Support My Work
-
-If you enjoy my projects, consider giving them a ⭐ on GitHub.
-
-Every star, issue, and contribution motivates me to build even better software.
-
----
-
-# 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-
-</div>
-
----
-
-# 🧠 Fun Facts
-
-```text
-💻 I love building AI applications.
-
-🌍 I enjoy solving real-world problems with code.
-
-🎵 Music inspires my creativity.
-
-✍️ Writing helps me express ideas beyond programming.
-
-🚀 Every project teaches me something new.
+# 👤 About Me
+
+```javascript
+const brokenvzn = {
+    name: "Akewushola Abdulbakri Temitope",
+    alias: "brokenvzn",
+
+    location: "Nigeria 🇳🇬",
+    education: "Westland University, Iwo, Osun State",
+
+    role: "Full Stack Developer & AI Engineer",
+
+    whatIBuild: [
+        "AI agents & automation",
+        "REST APIs people can actually plug into",
+        "Streaming & media platforms",
+        "WhatsApp bots",
+        "Web apps with clean UI"
+    ],
+
+    languages: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
+    frontend:  ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
+    backend:   ["Node.js", "Express", "Flask", "REST APIs"],
+    databases: ["MongoDB", "Firebase", "Supabase", "SQLite"],
+    tools:     ["Git", "VS Code", "Railway", "Vercel", "Docker", "Linux"],
+
+    alsoInto: ["Writing", "Singing", "Music"],
+
+    philosophy: "Ship it, then make it better."
+}
 ```
 
 ---
 
-# 📈 Weekly Development Breakdown
+# 📊 GitHub Stats
 
-<!--START_SECTION:waka-->
+<div align="center">
 
-```text
-JavaScript   ████████████████░░░░  65%
-Python       ████████░░░░░░░░░░░  20%
-React        █████░░░░░░░░░░░░░░  10%
-Other        ██░░░░░░░░░░░░░░░░░   5%
-```
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Neaterry6&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true"/>
 
-<!--END_SECTION:waka-->
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neaterry6&layout=compact&theme=tokyonight&langs_count=10&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neaterry6&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📬 Connect
+
+<div align="center">
+
+<a href="mailto:akewusholaabdulbakri101@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://t.me/Broken_vzn11"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://www.instagram.com/broken_vzn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.tiktok.com/@bnlsquad_boybroken"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=61587403051704"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+
+**Open to work** — freelance, collabs, and interesting problems.
+Best way to reach me: [email](mailto:akewusholaabdulbakri101@gmail.com) or [Telegram](https://t.me/Broken_vzn11).
+
+</div>
 
 ---
 
 <div align="center">
 
-## 🚀 Thanks for Visiting!
+### ⭐ If any of my work helped you, a star means a lot.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00F7FF&center=true&width=650&lines=Thanks+for+stopping+by!;Let's+build+something+amazing+together.;Always+learning.+Always+creating.;See+you+in+the+next+commit!+👋"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00F7FF&center=true&width=650&lines=Thanks+for+stopping+by!;Let's+build+something+great+together.;See+you+in+the+next+commit+%F0%9F%91%8B"/>
 
-### ⭐ If you like my work, don't forget to follow me and star my repositories!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=110&section=footer"/>
 
 </div>
