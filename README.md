@@ -146,16 +146,17 @@ Zero-dependency npm packages — no axios, no SDKs, nothing to keep updated.
 
 <div align="center">
 
-| Package | What it does | Install |
+| Package | What it does | Source |
 |---|---|---|
-| [**broken-roasts**](https://github.com/Neaterry6/broken-roasts) | Roast generator. 5 flavours + personalised roasts. Works offline. | `npm i broken-roasts` |
-| [**broken-translate**](https://github.com/Neaterry6/broken-translate) | Translation with auto-detect, batch and long-text support. | `npm i broken-translate` |
+| **broken-roasts** | Roast generator. 5 flavours + personalised roasts. Works offline. | [GitHub](https://github.com/Neaterry6/broken-roasts) |
+| **broken-translate** | Translation with auto-detect, batch and long-text support. | [GitHub](https://github.com/Neaterry6/broken-translate) |
 
 </div>
 
 Both ship full TypeScript types, a dual ESM + CJS build, and a test suite.
 
 ```js
+// clone or link the repo, then:
 const { getRoast } = require('broken-roasts');
 getRoast('savage');   // "You have the perfect face for radio."
 
