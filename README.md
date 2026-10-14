@@ -181,6 +181,69 @@ await translate('Hello world', { to: 'fr' });   // "Bonjour le monde"
 
 ---
 
+# 🌸 Anime & Manga
+
+Anime and manga are a running theme in what I build.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Live now**
+
+- [**Manga We**](https://manga-we.vercel.app) — manga reader, clean UI
+- [**StreamMe Chatroom**](https://streamme-chatroom-id.vercel.app) — watch-along chat
+
+</td>
+<td width="50%" valign="top">
+
+**Source**
+
+- [**streamMe-anime**](https://github.com/Neaterry6/streamMe-anime) — anime streaming app
+- [**manga-web**](https://github.com/Neaterry6/manga-web) — manga reader
+- [**STREAM.ME.ID**](https://github.com/Neaterry6/STREAM.ME.ID) — streaming frontend
+- [**fzseries-api**](https://github.com/Neaterry6/fzseries-api) — Python SDK for fztvseries.live
+- [**Movieboxpi**](https://github.com/Neaterry6/Movieboxpi) — MovieBox protocol & architecture notes
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🎮 Games
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ▶ [NEON BREAKOUT](https://neaterry6.github.io/neon-breakout/)
+
+A neon arcade breakout game. **One HTML file, zero dependencies, works offline.**
+
+Endless levels, paddle-angle control, tougher bricks as you climb, particles and screen shake, and a best score saved locally.
+
+Built and tested headlessly — 31 checks driving real game frames.
+
+**[Play it →](https://neaterry6.github.io/neon-breakout/)** · [Source](https://github.com/Neaterry6/neon-breakout)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Games inside the bot
+
+The WhatsApp agent ships games, music, lyrics and social features — playable straight from chat.
+
+[**Broken-agent**](https://github.com/Neaterry6/Broken-agent) — a WhatsApp agent rebuilt from scratch on Agnes AI
+
+More arcade games are in progress.
+
+</td>
+</tr>
+</table>
+
+---
+
 # 🛠 Tech Stack
 
 <div align="center">
