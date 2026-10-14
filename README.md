@@ -26,7 +26,7 @@
 
 > ### "I don't just write code — I build things people actually use."
 
-**50+ original repositories** · **AI agents** · **REST APIs** · **Streaming tools** · **WhatsApp bots**
+**50+ original repositories** · **10 published npm packages** · **AI agents** · **REST APIs** · **WhatsApp bots**
 
 </div>
 
@@ -142,27 +142,50 @@ Honest list — these are built but their deployments are down or mid-rebuild. W
 
 # 📦 Packages
 
-Zero-dependency npm packages — no axios, no SDKs, nothing to keep updated.
+**Ten published npm packages.** Most are zero-dependency — no axios, no SDKs, nothing to keep updated. Full TypeScript types, dual ESM + CJS builds, and every one has a test suite.
 
 <div align="center">
 
-| Package | What it does | Source |
+### 🌸 Anime & Manga
+
+| Package | What it does | Install |
 |---|---|---|
-| **broken-roasts** | Roast generator. 5 flavours + personalised roasts. Works offline. | [GitHub](https://github.com/Neaterry6/broken-roasts) |
-| **broken-translate** | Translation with auto-detect, batch and long-text support. | [GitHub](https://github.com/Neaterry6/broken-translate) |
+| [**broken-anime-api**](https://www.npmjs.com/package/broken-anime-api) | Real anime data — search, characters, trending, recommendations via **AniList + Kitsu** | `npm i broken-anime-api` |
+| [**broken-anime**](https://www.npmjs.com/package/broken-anime) | Anime images and 59 reaction GIFs, no API key | `npm i broken-anime` |
+| [**broken-anime-card**](https://www.npmjs.com/package/broken-anime-card) | Render character trading cards as SVG | `npm i broken-anime-card` |
+| [**broken-anime-card-api**](https://www.npmjs.com/package/broken-anime-card-api) | Self-hosted card REST API — real AniList data as SVG, no headless browser | `npm i broken-anime-card-api` |
+| [**broken-manga**](https://www.npmjs.com/package/broken-manga) | Manga search, chapters and page images via MangaDex | `npm i broken-manga` |
+| [**broken-hentai**](https://www.npmjs.com/package/broken-hentai) | Adult image search across 4 booru providers 🔞 | `npm i broken-hentai` |
+
+### 🎵 Media & Music
+
+| Package | What it does | Install |
+|---|---|---|
+| [**broken-lyrics**](https://www.npmjs.com/package/broken-lyrics) | Lyrics lookup + synced LRC parsing | `npm i broken-lyrics` |
+| [**broken-translate**](https://www.npmjs.com/package/broken-translate) | Translation with auto-detect, batch and long-text support | `npm i broken-translate` |
+
+### 🛠 Utilities
+
+| Package | What it does | Install |
+|---|---|---|
+| [**broken-roasts**](https://www.npmjs.com/package/broken-roasts) | Roast generator — 5 flavours, works offline | `npm i broken-roasts` |
+| [**broken-wa-api**](https://www.npmjs.com/package/broken-wa-api) | WhatsApp API + SDK on Baileys — multi-session, buttons, webhooks | `npm i broken-wa-api` |
 
 </div>
 
-Both ship full TypeScript types, a dual ESM + CJS build, and a test suite.
-
 ```js
-// clone or link the repo, then:
+const { search } = require('broken-anime-api');
+const { results } = await search('naruto');
+results[0].title;   // 'Naruto'
+
+const { search: findManga } = require('broken-manga');
+await findManga('berserk');   // real chapters + page images
+
 const { getRoast } = require('broken-roasts');
 getRoast('savage');   // "You have the perfect face for radio."
-
-const { translate } = require('broken-translate');
-await translate('Hello world', { to: 'fr' });   // "Bonjour le monde"
 ```
+
+<sub>Nine of the ten have <b>zero dependencies</b>. Every package is tested against its real upstream API, not mocks.</sub>
 
 ### 🧩 More APIs (source available)
 
