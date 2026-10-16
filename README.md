@@ -181,34 +181,42 @@ Honest list — these are built but their deployments are down or mid-rebuild. W
 
 **Ten published npm packages.** Most are zero-dependency — no axios, no SDKs, nothing to keep updated. Full TypeScript types, dual ESM + CJS builds, and every one has a test suite.
 
-<div align="center">
-
 ### 🌸 Anime & Manga
 
-| Package | What it does | Install |
-|---|---|---|
-| [**broken-anime-api**](https://www.npmjs.com/package/broken-anime-api) | Real anime data — search, characters, trending, recommendations via **AniList + Kitsu** | `npm i broken-anime-api` |
-| [**broken-anime**](https://www.npmjs.com/package/broken-anime) | Anime images and 59 reaction GIFs, no API key | `npm i broken-anime` |
-| [**broken-anime-card**](https://www.npmjs.com/package/broken-anime-card) | Render character trading cards as SVG | `npm i broken-anime-card` |
-| [**broken-anime-card-api**](https://www.npmjs.com/package/broken-anime-card-api) | Self-hosted card REST API — real AniList data as SVG, no headless browser | `npm i broken-anime-card-api` |
-| [**broken-manga**](https://www.npmjs.com/package/broken-manga) | Manga search, chapters and page images via MangaDex | `npm i broken-manga` |
-| [**broken-hentai**](https://www.npmjs.com/package/broken-hentai) | Adult image search across 4 booru providers 🔞 | `npm i broken-hentai` |
+| Package | What it does |
+|---|---|
+| [**broken-anime-api**](https://www.npmjs.com/package/broken-anime-api) | Anime data via AniList + Kitsu — search, characters, trending |
+| [**broken-anime**](https://www.npmjs.com/package/broken-anime) | Anime images and 59 reaction GIFs, no API key |
+| [**broken-anime-card**](https://www.npmjs.com/package/broken-anime-card) | Character trading cards rendered as SVG |
+| [**broken-anime-card-api**](https://www.npmjs.com/package/broken-anime-card-api) | Self-hosted card API — AniList data as SVG, no browser |
+| [**broken-manga**](https://www.npmjs.com/package/broken-manga) | Manga search, chapters and pages via MangaDex |
+| [**broken-hentai**](https://www.npmjs.com/package/broken-hentai) | Adult image search across 4 booru providers 🔞 |
+
+```bash
+npm i broken-anime-api broken-anime broken-anime-card broken-anime-card-api broken-manga broken-hentai
+```
 
 ### 🎵 Media & Music
 
-| Package | What it does | Install |
-|---|---|---|
-| [**broken-lyrics**](https://www.npmjs.com/package/broken-lyrics) | Lyrics lookup + synced LRC parsing | `npm i broken-lyrics` |
-| [**broken-translate**](https://www.npmjs.com/package/broken-translate) | Translation with auto-detect, batch and long-text support | `npm i broken-translate` |
+| Package | What it does |
+|---|---|
+| [**broken-lyrics**](https://www.npmjs.com/package/broken-lyrics) | Lyrics lookup with synced LRC parsing |
+| [**broken-translate**](https://www.npmjs.com/package/broken-translate) | Translation with auto-detect and batch support |
+
+```bash
+npm i broken-lyrics broken-translate
+```
 
 ### 🛠 Utilities
 
-| Package | What it does | Install |
-|---|---|---|
-| [**broken-roasts**](https://www.npmjs.com/package/broken-roasts) | Roast generator — 5 flavours, works offline | `npm i broken-roasts` |
-| [**broken-wa-api**](https://www.npmjs.com/package/broken-wa-api) | WhatsApp API + SDK on Baileys — multi-session, buttons, webhooks | `npm i broken-wa-api` |
+| Package | What it does |
+|---|---|
+| [**broken-roasts**](https://www.npmjs.com/package/broken-roasts) | Roast generator — 5 flavours, works offline |
+| [**broken-wa-api**](https://www.npmjs.com/package/broken-wa-api) | WhatsApp API + SDK on Baileys — multi-session, webhooks |
 
-</div>
+```bash
+npm i broken-roasts broken-wa-api
+```
 
 ```js
 const { search } = require('broken-anime-api');
@@ -226,16 +234,16 @@ getRoast('savage');   // "You have the perfect face for radio."
 
 ### 🧩 More APIs (source available)
 
-| Module | What it does | Stack |
+| Module | What it does | Built with |
 |---|---|---|
-| [**Lyrics API**](https://github.com/Neaterry6/Lyrics-s) | Song lyrics lookup + search | Python |
-| [**LrcApi**](https://github.com/Neaterry6/LrcApi) | Timed `.lrc` lyric streaming | Flask |
+| [**Lyrics API**](https://github.com/Neaterry6/Lyrics-s) | Song lyrics lookup and search | Python |
+| [**LrcApi**](https://github.com/Neaterry6/LrcApi) | Timed `.lrc` lyric streaming | Python |
 | [**Spotify Lyrics API**](https://github.com/Neaterry6/Spotify-lyrics-api) | Lyrics matched to Spotify tracks | Python |
-| [**YT API**](https://github.com/Neaterry6/Yt-api) | YouTube search + metadata | JavaScript |
-| [**YTDL API**](https://github.com/Neaterry6/ytdl-API-) | Video/audio extraction | JavaScript |
-| [**Music API**](https://github.com/Neaterry6/Music-Api-) | Music search + streaming | JavaScript |
-| [**Pexels / Pinterest API**](https://github.com/Neaterry6/pexel-api) | Image search + proxy | HTML |
-| [**Blocklist Manager**](https://github.com/Neaterry6/blocklist-manager) | Phone blocklist with import/export | Node.js |
+| [**YT API**](https://github.com/Neaterry6/Yt-api) | YouTube search and metadata | JavaScript |
+| [**YTDL API**](https://github.com/Neaterry6/ytdl-API-) | Video and audio extraction | JavaScript |
+| [**Music API**](https://github.com/Neaterry6/Music-Api-) | Music search and streaming | JavaScript |
+| [**Pexels API**](https://github.com/Neaterry6/pexel-api) | Image search and proxy | HTML / CSS |
+| [**Blocklist Manager**](https://github.com/Neaterry6/blocklist-manager) | Phone blocklist with import and export | JavaScript |
 
 <sub>Want one of these as a package? [Open an issue](https://github.com/Neaterry6/Neaterry6/issues).</sub>
 
