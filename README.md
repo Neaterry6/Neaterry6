@@ -32,6 +32,43 @@
 
 ---
 
+## 🗺️ At a glance
+
+```mermaid
+%%{init: {"flowchart": {"nodeSpacing": 22, "rankSpacing": 50}}}%%
+flowchart LR
+ME(("🧑‍💻 AKEWUSHOLA<br/>ABDULBAKRI TEMITOPE"))
+ME --> NOW["🚀 Building Now"]
+NOW --> N1[WhatsApp AI agents]
+NOW --> N2[Streaming and media platforms]
+NOW --> N3[REST APIs and SDKs]
+ME --> GOOD["🏆 Strong At"]
+GOOD --> G1[Node.js and Express backends]
+GOOD --> G2[Scrapers and media resolvers]
+GOOD --> G3[Bot and automation systems]
+ME --> SHIP["📦 Shipped"]
+SHIP --> S1[10 npm packages]
+SHIP --> S2[50+ original repos]
+SHIP --> S3[Zero-dependency libraries]
+ME --> ASK["💬 Ask Me About"]
+ASK --> A1[Building bots that actually work]
+ASK --> A2[Scraping and API integration]
+ASK --> A3[Shipping on a small budget]
+ME --> OPEN["🤝 Open To"]
+OPEN --> O1[Freelance and contract work]
+OPEN --> O2[Collaborations]
+OPEN --> O3[Interesting problems]
+
+style ME fill:#00F7FF,stroke:#0A0A0A,stroke-width:2px,color:#0A0A0A
+style NOW fill:#8A2BE2,stroke:#0A0A0A,color:#fff
+style GOOD fill:#8A2BE2,stroke:#0A0A0A,color:#fff
+style SHIP fill:#8A2BE2,stroke:#0A0A0A,color:#fff
+style ASK fill:#8A2BE2,stroke:#0A0A0A,color:#fff
+style OPEN fill:#8A2BE2,stroke:#0A0A0A,color:#fff
+```
+
+---
+
 # 🚀 What I'm Building Right Now
 
 <table>
@@ -340,6 +377,26 @@ const brokenvzn = {
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neaterry6&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Activity
+
+<div align="center">
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img width="100%" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Neaterry6&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=8A2BE2&point=FF0080" alt="Contribution activity graph"/>
+</a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Neaterry6/Neaterry6/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Neaterry6/Neaterry6/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Neaterry6/Neaterry6/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
