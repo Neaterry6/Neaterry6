@@ -4,31 +4,66 @@
 <!-- ============================================================ -->
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=1000&lines=Hi+There!+I'm+Akewushola+Abdulbakri+Temitope;better+known+as+BROKENVZN;Full+Stack+Developer+%7C+AI+Engineer;I+build+APIs%2C+agents+and+web+apps;Ship+it%2C+then+make+it+better." />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=BROKENVZN&fontAlign=50&fontAlignY=40&color=0:00F7FF,50:8A2BE2,100:FF0080&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20API%20Builder&descAlignY=62"/>
-
-<br>
-
-<a href="https://neaterry6.github.io"><img src="https://img.shields.io/badge/Portfolio-Live-00F7FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Neaterry6&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Neaterry6?logo=github&style=for-the-badge&label=Followers"/>
-<img src="https://img.shields.io/github/stars/Neaterry6?logo=github&style=for-the-badge&label=Stars"/>
-
+  <img src="assets/banner.jpg" width="100%" alt="BROKENVZN — Where Code Meets Imagination"/>
 </div>
 
+<table width="100%">
+<tr>
+<td width="100%" align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=1000&lines=Hi+There!+I'm+Akewushola+Abdulbakri+Temitope;better+known+as+BROKENVZN;Full+Stack+Developer+%7C+AI+Engineer;I+build+APIs%2C+agents+and+web+apps;Ship+it%2C+then+make+it+better." />
+</td>
+</tr>
+</table>
+
+<!-- Welcome hero card -->
+<table width="100%">
+<tr>
+<td width="4%"></td>
+<td width="82%">
+<table width="100%">
+<tr>
+<td>
+<p align="center"><code><b>&nbsp;WELCOME&nbsp;TO&nbsp;MY&nbsp;DIGITAL&nbsp;UNIVERSE&nbsp;</b></code></p>
+<h1 align="center">👨‍💻 AKEWUSHOLA TEMITOPE</h1>
+<p align="center">
+  <a href="#-tech-stack"><b>Full Stack Architect</b></a> <span>and</span> <span>AI Engineer</span><br/>
+  <span style="color:#8b949e">Building tomorrow's web — agents, APIs, and platforms that actually ship.</span>
+</p>
+</td>
+<td width="24%" align="center">
+  <img src="assets/avatar.jpg" width="120" height="120" alt="Akewushola Abdulbakri Temitope" style="border-radius:50%; border:3px solid #00F7FF; box-shadow:0 0 20px rgba(0,247,255,.5)"/>
+</td>
+</tr>
+</table>
+
+<br/>
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+  <a href="https://komarev.com/ghpvc/?username=Neaterry6"><img src="https://komarev.com/ghpvc/?username=Neaterry6&style=for-the-badge&color=00F7FF" alt="Profile Views"/></a>
+</td>
+<td width="33%" align="center">
+  <a href="https://github.com/Neaterry6?tab=followers"><img src="https://img.shields.io/github/followers/Neaterry6?style=for-the-badge&color=8A2BE2&label=FOLLOWERS" alt="Followers"/></a>
+</td>
+<td width="33%" align="center">
+  <a href="https://github.com/Neaterry6?tab=repositories"><img src="https://img.shields.io/github/stars/Neaterry6?style=for-the-badge&color=FF0080&label=REPOS" alt="Stars"/></a>
+</td>
+</tr>
+</table>
+</td>
+<td width="4%"></td>
+</tr>
+</table>
+
 <div align="center">
-  <img src="assets/avatar.jpg" width="150" height="150" alt="Akewushola Abdulbakri Temitope" style="border-radius:50%" />
+<a href="https://neaterry6.github.io"><img src="https://img.shields.io/badge/Portfolio-Live-00F7FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </div>
 
 ---
 
 <div align="center">
 
-> ### "I don't just write code — I build things people actually use."
+> ### 🎯 "I don't just write code — I build things people actually use."
 
 **50+ original repositories** · **10 published npm packages** · **AI agents** · **REST APIs** · **WhatsApp bots**
 
