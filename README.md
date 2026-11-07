@@ -4,7 +4,11 @@
 <!-- ============================================================ -->
 
 <div align="center">
-  <img src="assets/banner.jpg" width="100%" alt="BROKENVZN — Where Code Meets Imagination"/>
+  <img src="assets/header.png" width="100%" alt="BrokenisXoxo — Where Innovation Meets Excellence"/>
+</div>
+
+<div align="center">
+  <img src="assets/plate.png" width="100%" alt="BrokenisXoxo — Full-Stack Architect"/>
 </div>
 
 <table width="100%">
